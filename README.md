@@ -1,9 +1,7 @@
 # PMTec
 A MATLAB GUI for plate tectonic reconstructions with paleomagnetic data. Updated code version for MATLAB  2025.
 
-The original version of 2015 can be found here:
-
-https://github.com/datapoLei/PMTec_2015
+The original version of 2015 can be found here: https://github.com/datapoLei/PMTec_2015
 
 Any use of this software must refer:
 
